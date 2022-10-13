@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julie</h1>
-<h3 align="center">A junior fullstack developer from Paris</h3>
+<h3 align="center">A fullstack developer</h3>
 
 - 📫 How to reach me **julie.gastellu@orange.fr**
 
